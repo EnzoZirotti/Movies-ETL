@@ -5,7 +5,7 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 ## What You're Creating
 
-This new assignment consists of four technical analysis deliverables. You will submit the following:
+
 
 -Deliverable 1: Write an ETL Function to Read Three Data Files
 
